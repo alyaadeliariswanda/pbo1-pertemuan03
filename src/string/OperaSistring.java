@@ -5,6 +5,10 @@ public class OperaSistring {
         string kota = "pelaihari";
 
         System.out.println(kota);
+
+        char[] uniskachar = {'U','N','I','S','K','A'};
+        String uniskaString = new String(uniskaChar);
+        System.out.println(uniskaString);
     }
 }
 
