@@ -8,4 +8,6 @@ public class OperatorBinary {
     String nama = "Alya Adelia Riswanda";
     int jumlahSks = 24;
     double indeksPrestasiKumulatif = 3.89;
+
+
 }
