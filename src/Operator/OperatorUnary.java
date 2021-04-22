@@ -1,19 +1,19 @@
-package OperatorUnary;
+package Operator;
 
 public class OperatorUnary {
-    public static void main(String[] args) {
+    System.out.println(i);
+    i+=3;
+    System.out.prinpublic static void main(String[] args) {
         int i = 0;
         i++;
         System.out.println(i);
         i++;
         System.out.println(i);
-        i=i+1;
+        i = i + 1;
         System.out.println(i);
-        i+=3;
-        System.out.println(i);
-        i+=3;
-        System.out.println(i);
-        i*3;
+        i += 3;
+        tln(i);
+        i * 3;
         System.out.println(i);
     }
 }
